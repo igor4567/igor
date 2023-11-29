@@ -1,1 +1,2 @@
 # igor
+gitremote -v gitstatus
